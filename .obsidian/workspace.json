@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Syp-Kapitel 1.md",
+                "file": "content/posts/Syp-Kapitel 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syp-Kapitel 1"
+              "title": "Syp-Kapitel 2"
+            }
+          },
+          {
+            "id": "6b5b8ac6d0ce3295",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d72f05f63aa86e8",
@@ -171,6 +182,20 @@
   },
   "active": "e7136202dfb9a285",
   "lastOpenFiles": [
+    "docs/images/ziel_hierarchie.png",
+    "static/images/ziel_hierarchie.png",
+    "docs/images/nutzwert_analyse.png",
+    "static/images/nutzwert_analyse.png",
+    "content/posts/Syp-Kapitel 2.md",
+    "docs/images/mind_map.png",
+    "static/images/mind_map.png",
+    "docs/images/morphologischer_kasten.png",
+    "static/images/morphologischer_kasten.png",
+    "docs/images/Screenshot 2025-10-08 at 15.48.55.png",
+    "static/images/Screenshot 2025-10-08 at 15.48.55.png",
+    "content/posts/Syp-Kapitel 1.md",
+    "docs/posts/syp-kapitel-2/index.html",
+    "docs/posts/syp-kapitel-2",
     "docs/posts/page/1/index.html",
     "docs/posts/syp-kapitel-1/index.html",
     "docs/posts/page/1",
@@ -179,20 +204,8 @@
     "docs/posts/syp-kapitel-1",
     "docs/posts/page",
     "docs/posts/index.html",
-    "docs/posts/index.xml",
-    "docs/tags/index.xml",
-    "docs/tags/index.html",
     "docs/images/4_felder_matrix.png",
-    "public/images/4_felder_matrix.png",
-    "docs/public/images/4_felder_matrix.png",
-    "docs/4_felder_matrix.png",
-    "static/images/4_felder_matrix.png",
-    "public/4_felder_matrix.png",
-    "static/4_felder_matrix.png",
-    "4_felder_matrix.png",
-    "Screenshot 2025-10-08 at 07.58.56.png",
     "Eigenschaften.md",
-    "content/posts/Syp-Kapitel 1.md",
     "templates/default.md",
     "content/posts/test-post.md",
     "content/posts/new-post-two.md",
