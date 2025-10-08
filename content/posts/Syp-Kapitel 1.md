@@ -137,3 +137,4 @@ Es gibt verschiedene Institutionen mit verschiedenen Zertifikaten. Es gibt Zerti
 		* PRINCE2 Foundation
 		* PRINCE2 Practitioner
 		* PRINCE2 Professional: seit 2017 nicht mehr verfügbar
+

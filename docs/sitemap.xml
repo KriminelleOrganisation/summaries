@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://kriminelleorganistation.github.io/summaries/</loc>
     <lastmod>2025-10-07T20:23:35+02:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://kriminelleorganistation.github.io/summaries/posts/</loc>
     <lastmod>2025-10-07T20:23:35+02:00</lastmod>
   </url><url>
-    <loc>/posts/syp-kapitel-1/</loc>
+    <loc>https://kriminelleorganistation.github.io/summaries/posts/syp-kapitel-1/</loc>
     <lastmod>2025-10-07T20:23:35+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://kriminelleorganistation.github.io/summaries/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://kriminelleorganistation.github.io/summaries/tags/</loc>
   </url>
 </urlset>
