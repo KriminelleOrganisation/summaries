@@ -3,6 +3,6 @@ languageCode: en-us
 title: 3BHIF Summaries
 theme: ["PaperMod"]
 publishDir: docs
-relativeURLs: false
+relativeURLs: true
 canonifyURLs: true
 
