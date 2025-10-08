@@ -1,8 +1,8 @@
-baseURL: https://kriminelleorganisation.github.io/
+baseURL: https://kriminelleorganisation.github.io/summaries/
 languageCode: en-us
 title: 3BHIF Summaries
 theme: ["PaperMod"]
 publishDir: docs
-relativeURLs: true
+relativeURLs: false
 canonifyURLs: true
 
