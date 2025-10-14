@@ -6,8 +6,62 @@
     <description>Recent content in Posts on 3BHIF Summaries</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 14:48:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 20:44:05 +0200</lastBuildDate>
     <atom:link href="https://kriminelleorganisation.github.io/summaries/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BWM Übungs Test Lösungen</title>
+      <link>https://kriminelleorganisation.github.io/summaries/posts/bwm-%C3%BCbungs-test-l%C3%B6sungen/</link>
+      <pubDate>Tue, 14 Oct 2025 20:44:05 +0200</pubDate>
+      <guid>https://kriminelleorganisation.github.io/summaries/posts/bwm-%C3%BCbungs-test-l%C3%B6sungen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Lösungen und Rechenwege&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hinweise-vorab&#34;&gt;Hinweise vorab&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In der Kostenrechnung wird &lt;strong&gt;grundsätzlich ohne USt&lt;/strong&gt; gerechnet.&lt;br&gt;
+Wenn Preise &lt;strong&gt;inkl. USt&lt;/strong&gt; angegeben sind, muss zuerst die USt herausgerechnet (Netto-Preis berechnet) werden.&lt;/li&gt;
+&lt;li&gt;Ich zeige jeden Rechenschritt; Endergebnisse sind auf Cent gerundet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teil-a--theoriefragen-kurzantworten--musterlösungen&#34;&gt;Teil A – Theoriefragen (Kurzantworten / Musterlösungen)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unterschied Aufwand vs. Kosten&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Aufwand&lt;/strong&gt;: Wertverzehr in der externen Buchhaltung (z. B. Miete, die bezahlt wird).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kosten&lt;/strong&gt;: Zweckbedingter, betrieblicher Wertverzehr in der Kostenrechnung (z. B. Miete für Produktionsräume, nur der betriebliche Anteil).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beispiel:&lt;/strong&gt; Eine gezahlte Geldstrafe ist Aufwand, aber keine betriebliche Kostenart — sie wird in der Kostenrechnung meist ausgeschieden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Drei Aufgabenbereiche der Kostenrechnung&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BWM Übungs Test</title>
+      <link>https://kriminelleorganisation.github.io/summaries/posts/bwm-%C3%BCbungs-test/</link>
+      <pubDate>Tue, 14 Oct 2025 20:35:22 +0200</pubDate>
+      <guid>https://kriminelleorganisation.github.io/summaries/posts/bwm-%C3%BCbungs-test/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Disclaimer der Test wurde von ChatGPT generiert anhand von Zalans Zusammenfassung.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Thema:&lt;/strong&gt; Kostenrechnung, Bezugskalkulation, Kostenartenrechnung, Abgrenzung, kalkulatorische Kosten&lt;br&gt;
+&lt;strong&gt;Bearbeitungszeit:&lt;/strong&gt; ca. 30 Minuten&lt;br&gt;
+&lt;strong&gt;Hilfsmittel:&lt;/strong&gt; Taschenrechner, Schreibzeug&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teil-a--theoriefragen-kurze-antworten&#34;&gt;Teil A – Theoriefragen (kurze Antworten)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Erkläre den Unterschied zwischen &lt;strong&gt;Aufwand&lt;/strong&gt; und &lt;strong&gt;Kosten&lt;/strong&gt;. Nenne ein Beispiel.&lt;/li&gt;
+&lt;li&gt;Nenne &lt;strong&gt;drei Aufgabenbereiche der Kostenrechnung&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Was versteht man unter &lt;strong&gt;Einzelkosten&lt;/strong&gt;, &lt;strong&gt;Gemeinkosten&lt;/strong&gt; und &lt;strong&gt;Sonderkosten&lt;/strong&gt;? Gib je ein Beispiel.&lt;/li&gt;
+&lt;li&gt;Warum werden in der Kostenrechnung &lt;strong&gt;kalkulatorische Kosten&lt;/strong&gt; verwendet?&lt;/li&gt;
+&lt;li&gt;Erkläre kurz, was man unter &lt;strong&gt;betrieblicher und zeitlicher Abgrenzung&lt;/strong&gt; versteht.&lt;/li&gt;
+&lt;li&gt;Nenne zwei Beispiele für &lt;strong&gt;neutrale Aufwendungen&lt;/strong&gt;, die in der Kostenrechnung ausgeschieden werden müssen.&lt;/li&gt;
+&lt;li&gt;Was ist der Unterschied zwischen &lt;strong&gt;Istkostenrechnung&lt;/strong&gt; und &lt;strong&gt;Plankostenrechnung&lt;/strong&gt;?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teil-b--rechenaufgaben&#34;&gt;Teil B – Rechenaufgaben&lt;/h2&gt;
+&lt;h3 id=&#34;aufgabe-1--progressive-bezugskalkulation&#34;&gt;Aufgabe 1 – Progressive Bezugskalkulation&lt;/h3&gt;
+&lt;p&gt;Ein Unternehmen kauft beim Lieferanten 100 Stück eines Bauteils.&lt;br&gt;
+Der &lt;strong&gt;Listenpreis pro Stück beträgt € 120,00 inkl. 20 % USt&lt;/strong&gt;.&lt;br&gt;
+Es werden &lt;strong&gt;10 % Mengenrabatt&lt;/strong&gt;, &lt;strong&gt;2 % Skonto&lt;/strong&gt; bei Zahlung innerhalb von 10 Tagen und &lt;strong&gt;€ 150,00 Transportkosten&lt;/strong&gt; verrechnet.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Syp-Kapitel 2</title>
       <link>https://kriminelleorganisation.github.io/summaries/posts/syp-kapitel-2/</link>
